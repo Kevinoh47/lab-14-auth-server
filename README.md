@@ -1,5 +1,8 @@
 ![cf](http://i.imgur.com/7v5ASc8.png) OAuth
 ===========================================
+## Travis CI
+[![Build Status](https://travis-ci.com/Kevinoh47/lab-14-auth-server.svg?branch=working14auth)](https://travis-ci.com/Kevinoh47/lab-14-auth-server)
+
 ## Heroku
 https://codefellows-401-lab14-auth.herokuapp.com/
 
